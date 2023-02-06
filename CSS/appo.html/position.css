@@ -1,0 +1,17 @@
+.fixed{
+    background-color: blueviolet;
+        font-weight: bold; 
+position: sticky;
+    top: 0px;
+    }
+
+    body,html{
+        width: 100%;
+        padding: 0px;
+        margin: -11px;
+    }
+        
+        
+
+
+  
